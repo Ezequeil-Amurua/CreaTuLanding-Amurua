@@ -1,0 +1,15 @@
+.navBarContainer {
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: aqua;
+    padding: 45px;
+}
+
+.itemsContainer {
+    width: 600px;
+    display: flex;
+    justify-content: space-between;
+    background-color: lightgray;
+}
