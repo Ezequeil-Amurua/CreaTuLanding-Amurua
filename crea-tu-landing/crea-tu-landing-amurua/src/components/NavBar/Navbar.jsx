@@ -25,6 +25,12 @@ function Navbar () {
                         <li>
                             <a href="">Vuelos</a>
                         </li>
+                        <li>
+                            <a href="">Disney</a>
+                        </li>
+                        <li>
+                            <a href="">Asistencia</a>
+                        </li>
                     </ul>
                 </div>
 

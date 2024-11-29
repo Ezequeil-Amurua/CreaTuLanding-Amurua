@@ -1,0 +1,12 @@
+.containerCards {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 551px;
+    background-color: red;
+}
+
+h1 {
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
