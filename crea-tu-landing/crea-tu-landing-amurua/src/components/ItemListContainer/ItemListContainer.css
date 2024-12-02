@@ -3,10 +3,11 @@
     align-items: center;
     justify-content: center;
     height: 551px;
-    background-color: red;
+    background: linear-gradient(150deg, white, white, rgb(242, 237, 237));
 }
 
 h1 {
     font-size: 25px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(35, 34, 34); 
 }

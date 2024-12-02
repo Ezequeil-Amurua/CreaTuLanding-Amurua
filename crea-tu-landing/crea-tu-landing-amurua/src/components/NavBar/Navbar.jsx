@@ -1,13 +1,16 @@
 import React from "react";
 import "./Navbar.css"
 import CartWidget from "../CartWidget/CartWidget";
+import logo from '../../assets/logo.png'
 
 function Navbar () {
     return (
         <header>
             <nav className="navBarContainer">
                 <div>
-                    <a className="logo" href="">Logo</a>
+                    <a className="logoContainer" href="">
+                        <img className="logoSkyVibes" src={logo} alt="SkyVibes"/>
+                    </a>
                 </div>
 
                 <div>

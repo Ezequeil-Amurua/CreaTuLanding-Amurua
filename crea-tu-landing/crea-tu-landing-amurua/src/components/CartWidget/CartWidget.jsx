@@ -4,7 +4,7 @@ import "./CartWidget.css"
 function CartWidget () {
       return (
         <div>
-            <a className="cart" href="#">🛒</a>
+            <i class="bi bi-cart4"></i>
         </div>
     )
 };
