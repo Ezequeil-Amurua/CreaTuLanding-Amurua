@@ -4,7 +4,6 @@ import CartWidget from "../CartWidget/CartWidget";
 
 function Navbar () {
     return (
-
         <header>
             <nav className="navBarContainer">
                 <div>
@@ -30,6 +29,9 @@ function Navbar () {
                         </li>
                         <li>
                             <a href="">Asistencia</a>
+                        </li>
+                        <li>
+                            <a href="">Cupones</a>
                         </li>
                     </ul>
                 </div>
