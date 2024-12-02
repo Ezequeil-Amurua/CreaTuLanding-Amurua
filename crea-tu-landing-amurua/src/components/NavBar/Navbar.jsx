@@ -22,7 +22,7 @@ function Navbar () {
                              <a href="">Paquetes</a>
                         </li>
                         <li>
-                            <a href="">Ofertas</a>
+                            <a href="">Ofertas🔥</a>
                         </li>
                         <li>
                             <a href="">Vuelos</a>
