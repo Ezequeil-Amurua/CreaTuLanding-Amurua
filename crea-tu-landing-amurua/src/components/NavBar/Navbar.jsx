@@ -16,25 +16,30 @@ function Navbar () {
                 <div>
                     <ul className="itemsContainer">
                         <li>
-                            <a href="">Mis viajes</a>
+                            <a href="">Mis viajes🛩</a>
                         </li>
                         <li>
-                             <a href="">Paquetes</a>
+                            <a href="">Vuelos
+                            <i class="bi bi-airplane-engines"></i>
+                            </a>
+                        </li>
+                        <li>
+                             <a href="">Paquetes
+                             <i class="bi bi-suitcase"></i>
+                             </a>
                         </li>
                         <li>
                             <a href="">Ofertas🔥</a>
                         </li>
                         <li>
-                            <a href="">Vuelos</a>
+                            <a href="">Asistencia
+                            <i class="bi bi-telephone-plus-fill"></i>
+                            </a>
                         </li>
                         <li>
-                            <a href="">Disney</a>
-                        </li>
-                        <li>
-                            <a href="">Asistencia</a>
-                        </li>
-                        <li>
-                            <a href="">Cupones</a>
+                            <a href="">Cupones
+                            <i class="bi bi-ticket-perforated-fill"></i>
+                            </a>
                         </li>
                     </ul>
                 </div>
